@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1699603547 source:/home/sadiq252/Documents/ISI/RotateImage/main.cpp
+	<bits/stdc++.h>
+	"BMP.h"
+
+1677421056 /home/sadiq252/Documents/ISI/RotateImage/BMP.h
+	<bits/stdc++.h>
+
